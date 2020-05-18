@@ -7,4 +7,3 @@
    c）DB Username
    d）DB Password
 3. 完成配置之后能可以运行spring程序;
-青春会美丽是因为容易单纯的悸动
